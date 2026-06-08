@@ -1,0 +1,1 @@
+select 'push from snowflake';
